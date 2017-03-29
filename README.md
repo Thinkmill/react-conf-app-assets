@@ -1,4 +1,4 @@
-![ReactConf App](https://thinkmill.github.io/react-conf-app/img/reactConf.png)
+<img src="https://thinkmill.github.io/react-conf-app/img/reactConf.png" width="120" />
 
 # ReactConf App Assets
 
